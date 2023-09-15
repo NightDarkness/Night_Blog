@@ -1,0 +1,26 @@
+*{
+
+}
+
+body{
+    margin:0;
+    padding:0;
+    overflow-x: hidden;
+}
+
+.no_spaces{
+    margin:0;
+    padding:0;
+}
+
+#carousel_color{
+    background: #cacaca;
+    width:100vw;
+}
+
+.ads{
+    border:100px;
+    border-left: 10px;
+    border-color: #310505;
+    background: #cacaca;
+}
